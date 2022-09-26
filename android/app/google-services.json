@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51064507342",
+    "project_id": "city-cab-dd18d",
+    "storage_bucket": "city-cab-dd18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51064507342:android:dc361f5e5564a6adc7799f",
+        "android_client_info": {
+          "package_name": "com.example.day14_city_cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51064507342-2rplptalh2kfesklrjhcqjbqv15pnf3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Kw3RiKMcbO1Q-i-rj4vvzDRoVyYlbfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51064507342-2rplptalh2kfesklrjhcqjbqv15pnf3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
